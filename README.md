@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TallenVidal1
-- 🌱 I’m currently majoring in Data Science, Analytics, and Visualization and interested in a minor in Computer Science at Chaminade University of Honolulu
+- 🌱 I’m currently double majoring in Data Science, Analytics, and Visualization and Computer Science at Chaminade University of Honolulu.
 - I’m looking to collaborate on various data science projects!
 - 📫 How to reach me tallen.vidal@student.chaminade.edu
 <!---
