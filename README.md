@@ -4,8 +4,8 @@ Currently double majoring in Data Science, Analytics, and Visualization and Comp
 - 📫 How to reach me tallen.vidal@student.chaminade.edu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alex-greb-94438a331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex greb" height="30" width="40" /></a>
-  <a href="https://github.com/AGreb21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="_alexgreb" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/tallen-vidal-6674ab3a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex greb" height="30" width="40" /></a>
+  <a href="https://github.com/TallenVidal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="_alexgreb" height="30" width="40" /></a>
 </p>
 <!---
 TallenVidal1/TallenVidal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
