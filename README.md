@@ -6,6 +6,8 @@ Currently double majoring in Data Science, Analytics, and Visualization and Comp
 <p align="left">
   <a href="https://www.linkedin.com/in/tallen-vidal-6674ab3a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex greb" height="30" width="40" /></a>
   <a href="https://github.com/TallenVidal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="_alexgreb" height="30" width="40" /></a>
+
+<h3 align="left">Project Resources:</h3>
 </p>
 <!---
 TallenVidal1/TallenVidal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
