@@ -3,7 +3,7 @@ TallenVidal1/TallenVidal1 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hello, Tallen here!
-Pursuing a double major in "Data Science, Analytics, and Visualization" and "Computer Science" at Chaminade University of Honolulu.
+- Pursuing a double major in "Data Science, Analytics, and Visualization" and "Computer Science" at Chaminade University of Honolulu.
 - I’m looking to collaborate on various data science projects!
 - 📫 How to reach me tallen.vidal@student.chaminade.edu
 <h3 align="left">Connect with me:</h3>
