@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="tacc" width="150px" style="padding-right:10px;" src="https://www.tdl.org/wp-content/uploads/2010/02/TACC_logo.png" />
 <img align="left" alt="rstudio" width="75px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="Python" width="75px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Palantir Logo" width="150px" style="padding-right:25px;" src="https://www.freelogovectors.net/wp-content/uploads/2023/03/palantir-logo-freelogovectors.net_.png" />
+<img align="left" alt="Palantir" height="40" style="padding-right:25px;" src="https://img.shields.io/badge/Palantir-101113?style=for-the-badge&logo=palantir&logoColor=white" />
 
 <br clear="all" />
 
 <h3 align="left">Scholarship/Internship Programs:</h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NSF.svg/200px-NSF.svg.png" alt="U.S. National Science Foundation Logo" width="200" />
+<img alt="U.S. National Science Foundation Logo" width="120" src="https://upload.wikimedia.org/wikipedia/commons/1/12/NSF.svg" />
